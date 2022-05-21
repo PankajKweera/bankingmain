@@ -1,0 +1,27 @@
+body{
+    position: relative;
+}
+.table-container{
+    text-align: center;
+    position: relative;
+    margin: auto;
+}
+table{
+    letter-spacing: 1.2px;
+}
+thead,tbody {
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.table-hover tbody tr:hover td{
+  background-color: lightblue;
+}
+td a{
+    text-decoration: none;
+    color: black;
+}
+td a:hover{
+    color: red;
+}
