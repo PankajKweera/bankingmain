@@ -20,9 +20,13 @@ Batch - May '22
 # Project Development Details:
 
 => Front End Languages Used	-	HTML, CSS, Bootstrap( CSS Framework ), JavaScript
-=? Back End Languages Used	-	PHP, MySQL
+
+=> Back End Languages Used	-	PHP, MySQL
+
 => Server						        -	Apache Xampp
+
 => Code Editor				      - Sublime Text
+
 => Web Hosting				      - 000webhost, GitHub
 
 Website Link ->
