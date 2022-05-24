@@ -29,6 +29,6 @@ Batch - May '22
 
 => Web Hosting				      - 000webhost, GitHub
 
-Website Link -> https://ease-money-transfer.000webhostapp.com/
+Site link:-https://ease-money-transfer.000webhostapp.com/
 
 Youtube Link -> https://youtu.be/H9kJw9Picoc
